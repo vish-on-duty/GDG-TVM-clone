@@ -41,3 +41,115 @@ p{
     margin-left: 200px;
     font-size: 20px;
 }
+.socialmed{
+    height: 68px;
+    width:  275px;
+    margin-left: 180px;
+}
+#socialmedimg{
+    height: 100%;
+    width: 100%;
+}
+.joinus{
+    height: 63px;
+    width: auto;
+    background-color: rgba(226, 226, 226, 1);
+    text-align: center;
+}
+#joinusbutt{
+    border: none;
+    background-color: #1a73e8;;
+    color: white;
+    font-size: 14px;
+    height: 50px;
+    width: 80px;
+    border-radius: 10%;
+    margin-top: 5px;
+    align-self: center;
+    font-weight: 2rem;
+}
+.additionalmenus{
+    color: black;
+    display: flex;
+    margin-top: 30px;
+    justify-content: right;
+    margin-right: 215px;
+}
+.about{
+    margin-left: 200px;
+    font-size: 1.08rem;
+    margin-right: 200px;
+}
+.upcomingevents{
+    margin-left: 200px;
+    font-size: 1.08rem;
+    margin-right: 200px;
+}
+.pastevents{
+    margin-left: 200px;
+}
+.pasteventspic{
+    margin-right: 50px;
+    height: 400px;
+    width: auto;
+}
+#pasteve{
+    height: 100%;
+    width: 100%;
+}
+.loadmore{
+    margin-top: 30px;
+    height: 63px;
+    width: auto;
+    text-align: center;
+}
+#loadmorebutt{
+    border: none;
+    background-color: #1a73e8;;
+    color: white;
+    font-size: 14px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10%;
+    margin-top: 5px;
+    align-self: center;
+    font-weight: 2rem;
+}
+#outerdiv{
+    height: 200px;
+    width: 250px;
+    border: 2px solid whitesmoke;
+    margin-left: 450px;
+}
+.ksmu{
+    margin-top: 30px;
+    height: 170px;
+    width: 250px;
+    margin-left: 10px;
+}
+#ksmupic{
+    height: 79%;
+    width: 89%;
+   margin-bottom: 10px;
+}
+.chapvid{
+    margin-left: 200px;
+}
+.contactus{
+    margin-top: 30px;
+    height: 63px;
+    width: auto;
+    text-align: center;
+}
+#contactusbutt{
+    border: none;
+    background-color: #1a73e8;;
+    color: white;
+    font-size: 20px;
+    height: 53px;
+    width: 180px;
+    border-radius: 4%;
+    margin-top: 5px;
+    align-self: center;
+    font-weight: 2rem;
+}
