@@ -153,3 +153,59 @@ p{
     align-self: center;
     font-weight: 2rem;
 }
+.footer{
+    margin-left: 200px;
+    display: flex;   
+}
+.gdglogoend{
+    height: 30px;
+    width: 280px;
+}
+
+#gdglogoendpic{
+    height: 100%;
+    width: 100%;
+}
+#quicklinks{
+    margin-left: 100px;
+}
+#Social{
+    margin-left: 200px;
+    font-size: 18px;
+    color: #5f6368;
+}
+#qlll{
+    font-size: 18px;
+    color: #5f6368;
+}
+#linkedinicon{
+    margin-left: 10px;
+}
+#utubeicon{
+    margin-left: 10px;
+}
+.lastline{
+    margin-left: 200px;
+    display: flex;
+}
+#upcmgeve{
+    color: inherit;
+    text-decoration: none;
+}
+.bevy{
+    margin-left: 750px;
+}
+#bevylogo{
+    height: 100%;
+    width: 100%;
+}
+.bevypicc{
+    height: 20px;
+    width: 70px;
+
+}
+#bevylink{
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+}
