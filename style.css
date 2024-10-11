@@ -20,13 +20,22 @@
     width: 100%;
 }
 .optionsmain{
+    font-size: 14px;
     display: flex;
     margin-top: 30px;
-    margin-left: 300px;
+    margin-left: 350px;
 }
 p{
     color: #5f6368;
-    margin-left: 20px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+p:hover{
+    color: black;
+}
+.optionsmainclick{
+    color: inherit;
+    text-decoration: none;
 }
 .main{
     margin-top: 20px;
@@ -63,13 +72,17 @@ p{
     color: white;
     font-size: 14px;
     height: 50px;
-    width: 80px;
+    width: 90px;
     border-radius: 10%;
     margin-top: 5px;
     align-self: center;
     font-weight: 2rem;
 }
+#joinusbutt:hover{
+    cursor: pointer;
+}
 .additionalmenus{
+    font-size: 14px;
     color: black;
     display: flex;
     margin-top: 30px;
@@ -80,6 +93,7 @@ p{
     margin-left: 200px;
     font-size: 1.08rem;
     margin-right: 200px;
+    font-size: 15px;
 }
 .upcomingevents{
     margin-left: 200px;
@@ -88,6 +102,7 @@ p{
 }
 .pastevents{
     margin-left: 200px;
+    font-size: 15px;
 }
 .pasteventspic{
     margin-right: 50px;
@@ -115,6 +130,9 @@ p{
     margin-top: 5px;
     align-self: center;
     font-weight: 2rem;
+}
+#loadmorebutt:hover{
+    cursor: pointer;
 }
 #outerdiv{
     height: 200px;
@@ -153,6 +171,9 @@ p{
     margin-top: 5px;
     align-self: center;
     font-weight: 2rem;
+}
+#contactusbutt:hover{
+    cursor: pointer;
 }
 .footer{
     margin-left: 200px;
@@ -209,4 +230,13 @@ p{
     color: inherit;
     text-decoration: none;
     display: flex;
+}
+.footeropedit{
+    color: inherit;
+    text-decoration: none;
+    font-size: 14px;
+}
+.footeropedit:hover{
+    color: blue;
+    cursor: pointer;
 }
